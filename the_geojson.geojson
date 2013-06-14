@@ -7,29 +7,12 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -80.66252,
-                    35.04267
+                    47.156944, 
+                    27.590278
                 ]
             },
             "properties": {
-                "condition": "Satisfactory",
-                "has_garage": false,
-                "number_of_bedrooms": 3
-            }
-        },{
-            "type": "Feature",
-            "id": 9875,
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -80.66262,
-                    35.04277
-                ]
-            },
-            "properties": {
-                "condition": "Excellent",
-                "has_garage": true,
-                "number_of_bedrooms": 4
+                "Condition": "No place like home."
             }
         }
     ]
